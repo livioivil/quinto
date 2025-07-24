@@ -1,7 +1,14 @@
 ---
 title: "slides"
-author: "livio"
-format: revealjs
+subtitle: "subtitle"
+author: 
+  name: "livio"
+  email: "bla@bla.it"
+affiliation: "boh"
+format: 
+  revealjs:
+    self-contained: true 
+    slide-number: c/t
 editor: visual
 ---
 
@@ -27,3 +34,12 @@ When you click the **Render** button a presentation will be generated that inclu
 ```{r}
 1 + 1
 ```
+
+## incremental
+
+::: {.incremental}
+
+- primo
+- secondo
+- terzo
+:::

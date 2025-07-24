@@ -15,3 +15,5 @@ editor: visual
 ---
 
 prima pagina
+
+[link](./slides.html) to slides
